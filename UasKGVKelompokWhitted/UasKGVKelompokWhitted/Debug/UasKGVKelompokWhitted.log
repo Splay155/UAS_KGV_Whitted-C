@@ -1,0 +1,8 @@
+﻿  UASKGV.cpp
+C:\Users\User\source\repos\UasKGVKelompokWhitted\UasKGVKelompokWhitted\UASKGV.cpp(21,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\User\source\repos\UasKGVKelompokWhitted\UasKGVKelompokWhitted\UASKGV.cpp(27,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\UasKGVKelompokWhitted\UasKGVKelompokWhitted\UASKGV.cpp(313,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\source\repos\UasKGVKelompokWhitted\UasKGVKelompokWhitted\UASKGV.cpp(313,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\source\repos\UasKGVKelompokWhitted\UasKGVKelompokWhitted\UASKGV.cpp(318,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\source\repos\UasKGVKelompokWhitted\UasKGVKelompokWhitted\UASKGV.cpp(318,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  UasKGVKelompokWhitted.vcxproj -> C:\Users\User\source\repos\UasKGVKelompokWhitted\Debug\UasKGVKelompokWhitted.exe
